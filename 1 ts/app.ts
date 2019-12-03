@@ -7,7 +7,7 @@ let booleano:boolean = true
 
 let hoy:Date = new Date();
 
-hoy = new Date('21-05-21');
+hoy = new Date('2019-12-03');
 
 console.log(hoy);
 
@@ -23,4 +23,3 @@ let cualquiera:any;
         nombre: "peter",
         edaad: 20
     }
-    
